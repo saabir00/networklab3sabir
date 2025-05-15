@@ -1,5 +1,5 @@
 # Network Fundamentals lab.3:
-Simulate a packet drop scenario by disabling your adapter mid-ping. What output do you observe?
+Simulate a packet drop scenario by disabling your adapter mid-ping. What output do you observe?<br />
 For example choose 'Google.com'. This command will send an unlimited number of pings to the Google DNS server.<br />
 ![alt text](https://github.com/saabir00/networklab3sabir/blob/main/Screenshot%202025-05-15%20224617.png)<br />
 Then, we disable the Active Wifi adapter by typing 'ncpa.cpl'.
